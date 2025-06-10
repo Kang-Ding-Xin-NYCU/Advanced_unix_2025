@@ -1,0 +1,3 @@
+如何用pwntools模擬curl http://ipinfo.io/ip
+Bulls and Cows演算法
+\x00轉成int python
